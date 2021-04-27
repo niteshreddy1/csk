@@ -1,0 +1,3 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/Azure-Samples/app-service-web-dotnet-get-started.git
